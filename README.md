@@ -1,6 +1,6 @@
 # DarwinCustomRes
 Simple script to set display resolution that aren't listed in System Settings.
-# How to use ?
+# Usage
 Use `Start.command` file. <br>
 You may need to make it executable by running `chmod +x Start.command` <br>
 **Requirements**: Python
